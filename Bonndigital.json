@@ -166,7 +166,7 @@
         {
          "columns":8,
          "firstgid":1,
-         "image":"..\/..\/..\/..\/..\/Desktop\/Party-Map\/bonndigital-map\/tiles_png\/bonndigital\/floor.png",
+         "image":"tiles_png\/bonndigital\/floor.png",
          "imageheight":256,
          "imagewidth":256,
          "margin":0,
@@ -179,7 +179,7 @@
         {
          "columns":4,
          "firstgid":65,
-         "image":"..\/..\/..\/..\/..\/Desktop\/Party-Map\/bonndigital-map\/tiles_png\/bonndigital\/parquet.png",
+         "image":"tiles_png\/bonndigital\/parquet.png",
          "imageheight":128,
          "imagewidth":128,
          "margin":0,
@@ -192,7 +192,7 @@
         {
          "columns":16,
          "firstgid":81,
-         "image":"..\/..\/..\/..\/..\/Desktop\/Party-Map\/bonndigital-map\/tiles_png\/bonndigital\/walls.png",
+         "image":"tiles_png\/bonndigital\/walls.png",
          "imageheight":480,
          "imagewidth":512,
          "margin":0,
@@ -205,7 +205,7 @@
         {
          "columns":10,
          "firstgid":321,
-         "image":"..\/..\/..\/..\/..\/Desktop\/Party-Map\/bonndigital-map\/tiles_png\/bonndigital\/desks.png",
+         "image":"tiles_png\/bonndigital\/desks.png",
          "imageheight":352,
          "imagewidth":320,
          "margin":0,
@@ -218,7 +218,7 @@
         {
          "columns":15,
          "firstgid":431,
-         "image":"..\/..\/..\/..\/..\/Desktop\/Party-Map\/bonndigital-map\/tiles_png\/bonndigital\/cija_32x32_expansion for Pipoya_CC0.png",
+         "image":"tiles_png\/bonndigital\/cija_32x32_expansion for Pipoya_CC0.png",
          "imageheight":4256,
          "imagewidth":480,
          "margin":0,
@@ -231,7 +231,7 @@
         {
          "columns":16,
          "firstgid":2426,
-         "image":"..\/..\/..\/..\/..\/Desktop\/Party-Map\/bonndigital-map\/tiles_png\/bonndigital\/streets.png",
+         "image":"tiles_png\/bonndigital\/streets.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -244,7 +244,7 @@
         {
          "columns":16,
          "firstgid":2682,
-         "image":"..\/..\/..\/..\/..\/Desktop\/Party-Map\/bonndigital-map\/tiles_png\/bonndigital\/walls2.png",
+         "image":"tiles_png\/bonndigital\/walls2.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,

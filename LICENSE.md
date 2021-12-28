@@ -9,90 +9,44 @@ Eigene Grafiken stehen unter der Lizenz Creative-Commons-Lizenz Namensnennung - 
 # Fremde und genutzte Grafiken (/tiles)
 
 ## Bonn.digital.json
-* parquet.png
-* desks.png
-* cija_32x32_expansion for Pipoya_CC0.png
-* streets.png
-* walls.png
-* general.png
-* mapUtilities.png
-* tilesets_deviant_milkian_office.png
-* doors.png
-* food_and_drinks.png
-* furniture.png
-* tileset1.png
-* demo-tileset-v2.png
-* sol_interieur.png
+* parquet.png von WorkdAdventure (workadventure@thecodingmachine.com) https://github.com/thecodingmachine/workadventure, CC-BY-SA 3.0 http://creativecommons.org/licenses/by-sa/3.0/, deleted: https://github.com/thecodingmachine/workadventure/commit/e8ba9e9785c07317410eb0fe55896acbd1874835#diff-88a1abe11e0d6f2f5732b7977dded37215ea10524989a25a1447214816e878f0
+* desks.png von WorkdAdventure (workadventure@thecodingmachine.com) https://github.com/thecodingmachine/workadventure, CC-BY-SA 3.0 http://creativecommons.org/licenses/by-sa/3.0/, deleted: https://github.com/thecodingmachine/workadventure/commit/e8ba9e9785c07317410eb0fe55896acbd1874835#diff-88a1abe11e0d6f2f5732b7977dded37215ea10524989a25a1447214816e878f0
+* cija_32x32_expansion for Pipoya_CC0.png by cijavel, Bytewerk, https://github.com/cijavel/tileset_Bytewerk/blob/main/cija_32x32_expansion%20for%20Pipoya_CC0.png, CC0, https://creativecommons.org/publicdomain/zero/1.0/
+* streets.png von WorkdAdventure (workadventure@thecodingmachine.com) https://github.com/thecodingmachine/workadventure, CC-BY-SA 3.0 http://creativecommons.org/licenses/by-sa/3.0/, deleted: https://github.com/thecodingmachine/workadventure/commit/e8ba9e9785c07317410eb0fe55896acbd1874835#diff-88a1abe11e0d6f2f5732b7977dded37215ea10524989a25a1447214816e878f0
+* walls.png von WorkdAdventure (workadventure@thecodingmachine.com) https://github.com/thecodingmachine/workadventure, CC-BY-SA 3.0 http://creativecommons.org/licenses/by-sa/3.0/, deleted: https://github.com/thecodingmachine/workadventure/commit/e8ba9e9785c07317410eb0fe55896acbd1874835#diff-88a1abe11e0d6f2f5732b7977dded37215ea10524989a25a1447214816e878f0
+* general.png, by Milkian, https://www.deviantart.com/milkian/art/Tilesets-Modern-Mack-723975011, free to use, necessary Credits: Enterbrain and Mack
+* mapUtilities.png by Mullana, https://git.cccv.de/rc3/world-tiles/-/blob/master/rc3-2020/Readme-Mullana-Tilesets.pdf, https://git.cccv.de/rc3/world-tiles/-/blob/master/rc3-2020/structures/mapUtilities.png, CC0, https://creativecommons.org/publicdomain/zero/1.0/
+* tilesets_deviant_milkian_office.png, via Milkian by First Seed Material (FSM), https://www.deviantart.com/milkian/art/Tilesets-FSM-RM2K3-para-VX-Ace-Set-Escritorio-651542743, unklare Lizenz
+* doors.png, by c3CERT https://github.com/c3CERT/rc3_tiles, CC-BY-SA 4.0, http://creativecommons.org/licenses/by-sa/4.0/
+* food_and_drinks.png, by c3CERT https://github.com/c3CERT/rc3_tiles, CC-BY-SA 4.0, http://creativecommons.org/licenses/by-sa/4.0/
+* furniture.png, by c3CERT https://github.com/c3CERT/rc3_tiles, CC-BY-SA 4.0, http://creativecommons.org/licenses/by-sa/4.0/
+* tileset1.png von WorkdAdventure (workadventure@thecodingmachine.com) https://github.com/thecodingmachine/workadventure/blob/develop/maps/assets/tileset6_export.png, CC-BY-SA 3.0 http://creativecommons.org/licenses/by-sa/3.0/
+* demo-tileset-v2.png von WorkdAdventure (workadventure@thecodingmachine.com) https://github.com/thecodingmachine/workadventure, CC-BY-SA 3.0 http://creativecommons.org/licenses/by-sa/3.0/, deleted: https://github.com/thecodingmachine/workadventure/commit/e8ba9e9785c07317410eb0fe55896acbd1874835#diff-88a1abe11e0d6f2f5732b7977dded37215ea10524989a25a1447214816e878f0
+* sol_interieur.png von WorkdAdventure (workadventure@thecodingmachine.com) https://github.com/thecodingmachine/workadventure, CC-BY-SA 3.0 http://creativecommons.org/licenses/by-sa/3.0/, deleted: https://github.com/thecodingmachine/workadventure/commit/e8ba9e9785c07317410eb0fe55896acbd1874835#diff-88a1abe11e0d6f2f5732b7977dded37215ea10524989a25a1447214816e878f0
 
 ## garten.json
 
-* cija_32x32_expansion for Pipoya_CC0.png
-* mapUtilities.png
-* water_1.png
+* cija_32x32_expansion for Pipoya_CC0.png by cijavel, Bytewerk, https://github.com/cijavel/tileset_Bytewerk/blob/main/cija_32x32_expansion%20for%20Pipoya_CC0.png, CC0, https://creativecommons.org/publicdomain/zero/1.0/
+* mapUtilities.png by Mullana, https://git.cccv.de/rc3/world-tiles/-/blob/master/rc3-2020/Readme-Mullana-Tilesets.pdf, https://git.cccv.de/rc3/world-tiles/-/blob/master/rc3-2020/structures/mapUtilities.png, CC0, https://creativecommons.org/publicdomain/zero/1.0/
+* water_1.png von WorkdAdventure (workadventure@thecodingmachine.com) https://github.com/thecodingmachine/workadventure, CC-BY-SA 3.0 http://creativecommons.org/licenses/by-sa/3.0/, deleted: https://github.com/thecodingmachine/workadventure/commit/e8ba9e9785c07317410eb0fe55896acbd1874835#diff-88a1abe11e0d6f2f5732b7977dded37215ea10524989a25a1447214816e878f0
 
 ## barcanp.json
 
-* sol_interieur.png
-* demo-tileset-v2.png
-* tileset5_export.png
-* tileset4_export.png
-* LPC-terrains-subimissions-outside.png
-* LPC-terrains-subimissions-outside
-* ALL.png
-* tileset6_export.png
-* fantasy.png
-* panels.png
-* LPC-submissions-outside.png#
-* streets.png
-* water_1.png
-
+* sol_interieur.png von WorkdAdventure (workadventure@thecodingmachine.com) https://github.com/thecodingmachine/workadventure, CC-BY-SA 3.0 http://creativecommons.org/licenses/by-sa/3.0/, deleted: https://github.com/thecodingmachine/workadventure/commit/e8ba9e9785c07317410eb0fe55896acbd1874835#diff-88a1abe11e0d6f2f5732b7977dded37215ea10524989a25a1447214816e878f0
+* demo-tileset-v2.png von WorkdAdventure (workadventure@thecodingmachine.com) https://github.com/thecodingmachine/workadventure, CC-BY-SA 3.0 http://creativecommons.org/licenses/by-sa/3.0/, deleted: https://github.com/thecodingmachine/workadventure/commit/e8ba9e9785c07317410eb0fe55896acbd1874835#diff-88a1abe11e0d6f2f5732b7977dded37215ea10524989a25a1447214816e878f0
+* tileset5_export.png von WorkdAdventure (workadventure@thecodingmachine.com) https://github.com/thecodingmachine/workadventure/blob/develop/maps/assets/tileset5_export.png, CC-BY-SA 3.0 http://creativecommons.org/licenses/by-sa/3.0/
+* tileset5bis_export.png von WorkdAdventure (workadventure@thecodingmachine.com) https://github.com/thecodingmachine/workadventure/blob/develop/maps/assets/tileset5_export.png, CC-BY-SA 3.0 http://creativecommons.org/licenses/by-sa/3.0/
+* tileset4_export.png von WorkdAdventure (workadventure@thecodingmachine.com) https://github.com/thecodingmachine/workadventure, CC-BY-SA 3.0 http://creativecommons.org/licenses/by-sa/3.0/
+* LPC-terrains-subimissions-outside.png WorkdAdventure (workadventure@thecodingmachine.com) https://github.com/thecodingmachine/workadventure/tree/develop/maps/Tuto/tilesets/outdoor, Credits: https://github.com/thecodingmachine/workadventure/blob/develop/maps/Tuto/tilesets/LPc-submissions-Final%20Attribution.txt, CC-BY-SA 3.0 http://creativecommons.org/licenses/by-sa/3.0/
+* ALL.png von Jacques-Olivier Farcy https://interstices.ouvaton.org für WorkdAdventure (workadventure@thecodingmachine.com) https://github.com/thecodingmachine/workadventure/tree/develop/maps/Tuto/tilesets/specials, CC-BY-SA 3.0 http://creativecommons.org/licenses/by-sa/3.0/,
+* tileset6_export.png https://github.com/thecodingmachine/workadventure/blob/develop/maps/assets/tileset6_export.png
+* fantasy.png von WorkdAdventure (workadventure@thecodingmachine.com) https://github.com/thecodingmachine/workadventure, CC-BY-SA 3.0 http://creativecommons.org/licenses/by-sa/3.0/, deleted: https://github.com/thecodingmachine/workadventure/commit/e8ba9e9785c07317410eb0fe55896acbd1874835#diff-88a1abe11e0d6f2f5732b7977dded37215ea10524989a25a1447214816e878f0
+* panels.png von WorkdAdventure (workadventure@thecodingmachine.com) https://github.com/thecodingmachine/workadventure, CC-BY-SA 3.0 http://creativecommons.org/licenses/by-sa/3.0/, deleted: https://github.com/thecodingmachine/workadventure/commit/e8ba9e9785c07317410eb0fe55896acbd1874835#diff-88a1abe11e0d6f2f5732b7977dded37215ea10524989a25a1447214816e878f0
+* LPC-submissions-outside.png by WorkdAdventure (workadventure@thecodingmachine.com) https://github.com/thecodingmachine/workadventure/tree/develop/maps/Tuto/tilesets/outdoor, Credits: https://github.com/thecodingmachine/workadventure/blob/develop/maps/Tuto/tilesets/LPc-submissions-Final%20Attribution.txt, CC-BY-SA 3.0 http://creativecommons.org/licenses/by-sa/3.0/
+* streets.png von WorkdAdventure (workadventure@thecodingmachine.com) https://github.com/thecodingmachine/workadventure, CC-BY-SA 3.0 http://creativecommons.org/licenses/by-sa/3.0/, deleted: https://github.com/thecodingmachine/workadventure/commit/e8ba9e9785c07317410eb0fe55896acbd1874835#diff-88a1abe11e0d6f2f5732b7977dded37215ea10524989a25a1447214816e878f0
+* water_1.png von WorkdAdventure (workadventure@thecodingmachine.com) https://github.com/thecodingmachine/workadventure, CC-BY-SA 3.0 http://creativecommons.org/licenses/by-sa/3.0/, deleted: https://github.com/thecodingmachine/workadventure/commit/e8ba9e9785c07317410eb0fe55896acbd1874835#diff-88a1abe11e0d6f2f5732b7977dded37215ea10524989a25a1447214816e878f0
 
 # Genutzte Musik (/mp3)
 
 * computer.mp3 von squashy555 (https://freesound.org/people/squashy555/sounds/273736/), CC0 1.0 https://creativecommons.org/publicdomain/zero/1.0/
 * toiletmusic.mp3 von Timbre (https://freesound.org/people/Timbre/sounds/528775/), CC BY-NC 3.0 https://creativecommons.org/licenses/by-nc/3.0/
-
-# Unbekannte Grafiken
-Zu folgenden Grafiken liegen uns leider keine Lizenzinformationen vor. Wir besitzen keine Rechte an ihnen und können entsprechend auch keine erteilen:
-
-* ALL.png
-* Attribution-tilesets.txt
-* LPC-submissions-outside.png
-* LPC-terrains-subimissions-outside.png
-* cija_32x32_expansion for Pipoya_CC0.png
-* demo-tileset-v2.png
-* desks.png
-* doors.png
-* fantasy.png
-* food_and_drinks.png
-* furniture.png
-* general.png
-* mapUtilities.png
-* panels.png
-* parquet.png
-* sol_interieur.png
-* streets.png
-* tileset1.png
-* tileset4_export.png
-* tileset5_export.png
-* tileset5bis_export.png
-* tileset6_export.png
-* tilesets_deviant_milkian_office.png
-* walls.png
-* water_1.png
-
-
-
-
-# BASE assets WorkAdventure
-
-* le-coq.png von WorkdAdventure (workadventure@thecodingmachine.com) https://github.com/thecodingmachine/workadventure, CC-BY-SA 3.0 http://creativecommons.org/licenses/by-sa/3.0/
-* logotcm.png von WorkdAdventure (workadventure@thecodingmachine.com) https://github.com/thecodingmachine/workadventure, CC-BY-SA 3.0 http://creativecommons.org/licenses/by-sa/3.0/
-* pin.png von WorkdAdventure (workadventure@thecodingmachine.com) https://github.com/thecodingmachine/workadventure, CC-BY-SA 3.0 http://creativecommons.org/licenses/by-sa/3.0/
-* tileset1-repositioning.png von WorkdAdventure (workadventure@thecodingmachine.com) https://github.com/thecodingmachine/workadventure, CC-BY-SA 3.0 http://creativecommons.org/licenses/by-sa/3.0/
-* tileset1.png von WorkdAdventure (workadventure@thecodingmachine.com) https://github.com/thecodingmachine/workadventure, CC-BY-SA 3.0 http://creativecommons.org/licenses/by-sa/3.0/
-* tileset2.2.png von WorkdAdventure (workadventure@thecodingmachine.com) https://github.com/thecodingmachine/workadventure, CC-BY-SA 3.0 http://creativecommons.org/licenses/by-sa/3.0/
-* tileset2.png von WorkdAdventure (workadventure@thecodingmachine.com) https://github.com/thecodingmachine/workadventure, CC-BY-SA 3.0 http://creativecommons.org/licenses/by-sa/3.0/
-* tileset3.2.png von WorkdAdventure (workadventure@thecodingmachine.com) https://github.com/thecodingmachine/workadventure, CC-BY-SA 3.0 http://creativecommons.org/licenses/by-sa/3.0/
-* tileset3.png von WorkdAdventure (workadventure@thecodingmachine.com) https://github.com/thecodingmachine/workadventure, CC-BY-SA 3.0 http://creativecommons.org/licenses/by-sa/3.0/
-* walls2.png von WorkdAdventure (workadventure@thecodingmachine.com) https://github.com/thecodingmachine/workadventure, CC-BY-SA 3.0 http://creativecommons.org/licenses/by-sa/3.0/

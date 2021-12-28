@@ -2835,7 +2835,7 @@
         {
          "columns":25,
          "firstgid":6353,
-         "image":"tiles\/barcamp\/demo-tileset-v2.png",
+         "image":"tiles\/demo-tileset-v2.png",
          "imageheight":800,
          "imagewidth":800,
          "margin":0,
@@ -2848,7 +2848,7 @@
         {
          "columns":12,
          "firstgid":6978,
-         "image":"tiles\/barcamp\/sol_int\u00e9rieur.png",
+         "image":"tiles\/sol_int\u00e9rieur.png",
          "imageheight":288,
          "imagewidth":384,
          "margin":0,

@@ -451,7 +451,7 @@
         {
          "columns":1,
          "firstgid":4238,
-         "image":"tiles\/bonndigital\/BLeuchtung.png",
+         "image":"tiles\/BLeuchtung.png",
          "imageheight":64,
          "imagewidth":32,
          "margin":0,
@@ -464,7 +464,7 @@
         {
          "columns":16,
          "firstgid":4240,
-         "image":"tiles\/bonndigital\/streets.png",
+         "image":"tiles\/streets.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -670,7 +670,7 @@
         {
          "columns":15,
          "firstgid":4496,
-         "image":"tiles\/bonndigital\/water_1.png",
+         "image":"tiles\/water_1.png",
          "imageheight":48,
          "imagewidth":480,
          "margin":0,

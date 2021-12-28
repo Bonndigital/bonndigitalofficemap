@@ -285,12 +285,7 @@
  "nextlayerid":29,
  "nextobjectid":8,
  "orientation":"orthogonal",
- "properties":[
-        {
-         "name":"script",
-         "type":"string",
-         "value":"scriptMapVillage.js"
-        }],
+ "properties":[],
  "renderorder":"right-down",
  "tiledversion":"1.6.0",
  "tileheight":32,

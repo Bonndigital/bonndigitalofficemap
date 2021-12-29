@@ -50,3 +50,7 @@ Eigene Grafiken stehen unter der Lizenz Creative-Commons-Lizenz Namensnennung - 
 
 * computer.mp3 von squashy555 (https://freesound.org/people/squashy555/sounds/273736/), CC0 1.0 https://creativecommons.org/publicdomain/zero/1.0/
 * toiletmusic.mp3 von Timbre (https://freesound.org/people/Timbre/sounds/528775/), CC BY-NC 3.0 https://creativecommons.org/licenses/by-nc/3.0/
+
+# Bisher nicht genutzt
+
+* request_april_by_nicnubill.png von Nicnubill https://www.deviantart.com/nicnubill/art/Request-April-446589125, CC-BY 3.0 https://creativecommons.org/licenses/by/3.0/

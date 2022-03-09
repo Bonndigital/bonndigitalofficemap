@@ -349,6 +349,11 @@
  "orientation":"orthogonal",
  "properties":[
         {
+         "name":"audioCopyright",
+         "type":"string",
+         "value":"https:\/\/code.bonn.digital\/Bonn.digital\/bonndigitalofficemap\/src\/branch\/master\/LICENSE.md"
+        }, 
+        {
          "name":"mapCopyright",
          "type":"string",
          "value":"https:\/\/code.bonn.digital\/Bonn.digital\/bonndigitalofficemap\/src\/branch\/master\/LICENSE.md"
@@ -367,9 +372,14 @@
          "name":"mapName",
          "type":"string",
          "value":"Bonn.digital-B\u00fcro"
+        }, 
+        {
+         "name":"tilesetCopyright",
+         "type":"string",
+         "value":"https:\/\/code.bonn.digital\/Bonn.digital\/bonndigitalofficemap\/src\/branch\/master\/LICENSE.md"
         }],
  "renderorder":"right-down",
- "tiledversion":"1.7.2",
+ "tiledversion":"1.8.2",
  "tileheight":32,
  "tilesets":[
         {
@@ -2899,6 +2909,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":"1.6",
+ "version":"1.8",
  "width":64
 }

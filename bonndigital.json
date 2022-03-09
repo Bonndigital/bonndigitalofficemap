@@ -347,6 +347,27 @@
  "nextlayerid":25,
  "nextobjectid":1,
  "orientation":"orthogonal",
+ "properties":[
+        {
+         "name":"mapCopyright",
+         "type":"string",
+         "value":"https:\/\/code.bonn.digital\/Bonn.digital\/bonndigitalofficemap\/src\/branch\/master\/LICENSE.md"
+        }, 
+        {
+         "name":"mapDescription",
+         "type":"string",
+         "value":"Das Bonn.digital-B\u00fcro ist f\u00fcr alle offen, schaut euch gerne um! Abundzu trinken wir hier auch ein Bierchen oder treffen uns an der Pizza."
+        }, 
+        {
+         "name":"mapLink",
+         "type":"string",
+         "value":"https:\/\/code.bonn.digital\/Bonn.digital\/bonndigitalofficemap"
+        }, 
+        {
+         "name":"mapName",
+         "type":"string",
+         "value":"Bonn.digital-B\u00fcro"
+        }],
  "renderorder":"right-down",
  "tiledversion":"1.7.2",
  "tileheight":32,

@@ -97,12 +97,12 @@
                         {
                          "name":"bbbMeeting",
                          "type":"string",
-                         "value":"f54fea57-b850-4f02-8137-4fdd601fe014"
+                         "value":"07fe3d82-707f-4bc5-8996-0e1110691aab"
                         }, 
                         {
                          "name":"meetingName",
                          "type":"string",
-                         "value":"TeamMett"
+                         "value":"Team-Meeting"
                         }, 
                         {
                          "name":"userdata-bbb_auto_share_webcam",
